@@ -1,0 +1,11 @@
+c:\users\bruno\documents\visual studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\bin\Debug\prjSistemaMensal-UniaoEnc.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\bin\Debug\prjSistemaMensal-UniaoEnc.exe
+c:\users\bruno\documents\visual studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\bin\Debug\prjSistemaMensal-UniaoEnc.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal_UniaoEnc.Mensal.resources
+c:\users\bruno\documents\visual studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal_UniaoEnc.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.exe
+c:\users\bruno\documents\visual studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.pdb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.csproj.ResolveComReference.cache
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal_UniaoEnc.wfaFechamento.resources
