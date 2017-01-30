@@ -9,3 +9,14 @@ c:\users\bruno\documents\visual studio 2015\Projects\prjSistemaMensal-UniaoEnc\p
 c:\users\bruno\documents\visual studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.pdb
 C:\Users\Bruno\Documents\Visual Studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.csproj.ResolveComReference.cache
 C:\Users\Bruno\Documents\Visual Studio 2015\Projects\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal_UniaoEnc.wfaFechamento.resources
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\bin\Debug\prjSistemaMensal-UniaoEnc.exe.config
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.csproj.ResolveComReference.cache
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.exe
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.pdb
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\bin\Debug\prjSistemaMensal-UniaoEnc.exe
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\bin\Debug\prjSistemaMensal-UniaoEnc.pdb
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal_UniaoEnc.Mensal.resources
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal_UniaoEnc.Properties.Resources.resources
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal_UniaoEnc.wfaFechamento.resources
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Debug\prjSistemaMensal-UniaoEnc.csproj.GenerateResource.Cache

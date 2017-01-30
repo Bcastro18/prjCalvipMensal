@@ -265,11 +265,6 @@ namespace prjSistemaMensal_UniaoEnc
 
         }
 
-        private void txtValor_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            
-        }
-
         private void txtNCTE_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (!char.IsDigit(e.KeyChar))
@@ -300,6 +295,58 @@ namespace prjSistemaMensal_UniaoEnc
                 e.Handled = true;         //Just Digits
             if (e.KeyChar == (char)8)
                 e.Handled = false;            //Allow Backspace
+        }
+
+        private void txtValor_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsDigit(e.KeyChar))
+                e.Handled = true;         //Just Digits
+            if (e.KeyChar == (char)8)
+                e.Handled = false;            //Allow Backspace
+        }
+
+        private void txtExcluir_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsDigit(e.KeyChar))
+                e.Handled = true;         //Just Digits
+            if (e.KeyChar == (char)8)
+                e.Handled = false;            //Allow Backspace
+        }
+
+        private List<Frete> Pesquisar(string op)
+        {
+            List<Frete> fts = new List<Frete>();
+
+            foreach (Frete ft in ctes)
+            {
+                if (op == ft.ncte.ToString())
+                {
+                    fts.Add(ft);
+                }
+
+            }
+
+            return fts;
+        }
+
+        private void btnExcluir_Click(object sender, EventArgs e)
+        {
+            if(txtExcluir.Text != "")
+            {
+                string op = txtExcluir.Text;
+                List<Frete> fts = Pesquisar(op);
+                if (fts != null)
+                {
+                    foreach(Frete ft in fts)
+                        ctes.Remove(ft);
+                }
+                atualizaTabela();
+
+            }else
+            {
+                MessageBox.Show("Insira um número de cte válido!");
+
+            }
         }
     }
 }

@@ -53,6 +53,8 @@
             this.btnFechamento = new System.Windows.Forms.Button();
             this.lblTipo = new System.Windows.Forms.Label();
             this.lblTipoResp = new System.Windows.Forms.Label();
+            this.btnExcluir = new System.Windows.Forms.Button();
+            this.txtExcluir = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvCtes)).BeginInit();
             this.SuspendLayout();
@@ -60,7 +62,7 @@
             // btnAdc
             // 
             this.btnAdc.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAdc.Location = new System.Drawing.Point(64, 471);
+            this.btnAdc.Location = new System.Drawing.Point(60, 446);
             this.btnAdc.Name = "btnAdc";
             this.btnAdc.Size = new System.Drawing.Size(106, 40);
             this.btnAdc.TabIndex = 12;
@@ -454,12 +456,35 @@
             this.lblTipoResp.TabIndex = 16;
             this.lblTipoResp.Text = "EMISSÃO";
             // 
+            // btnExcluir
+            // 
+            this.btnExcluir.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnExcluir.Location = new System.Drawing.Point(296, 521);
+            this.btnExcluir.Name = "btnExcluir";
+            this.btnExcluir.Size = new System.Drawing.Size(77, 24);
+            this.btnExcluir.TabIndex = 18;
+            this.btnExcluir.TabStop = false;
+            this.btnExcluir.Text = "Apagar CTE";
+            this.btnExcluir.UseVisualStyleBackColor = false;
+            this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click);
+            // 
+            // txtExcluir
+            // 
+            this.txtExcluir.Location = new System.Drawing.Point(247, 523);
+            this.txtExcluir.Name = "txtExcluir";
+            this.txtExcluir.Size = new System.Drawing.Size(43, 20);
+            this.txtExcluir.TabIndex = 19;
+            this.txtExcluir.TabStop = false;
+            this.txtExcluir.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtExcluir_KeyPress);
+            // 
             // Mensal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(1042, 551);
+            this.Controls.Add(this.txtExcluir);
+            this.Controls.Add(this.btnExcluir);
             this.Controls.Add(this.lblTipoResp);
             this.Controls.Add(this.lblTipo);
             this.Controls.Add(this.btnFechamento);
@@ -520,6 +545,8 @@
         private System.Windows.Forms.Button btnFechamento;
         private System.Windows.Forms.Label lblTipo;
         private System.Windows.Forms.Label lblTipoResp;
+        private System.Windows.Forms.Button btnExcluir;
+        private System.Windows.Forms.TextBox txtExcluir;
     }
 }
 
