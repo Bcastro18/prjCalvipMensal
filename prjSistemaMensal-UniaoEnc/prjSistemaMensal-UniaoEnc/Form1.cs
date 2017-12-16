@@ -128,6 +128,8 @@ namespace prjSistemaMensal_UniaoEnc
             {
                 int num = ctes.Count;
                 txtNCTE.Text = (Convert.ToInt32(ctes[num - 1].ncte) + 1).ToString();
+                cmbAno.Text = (ctes[num - 1].ano).ToString();
+                cmbMes.Text = (ctes[num - 1].mes).ToString();
             }
 
         }

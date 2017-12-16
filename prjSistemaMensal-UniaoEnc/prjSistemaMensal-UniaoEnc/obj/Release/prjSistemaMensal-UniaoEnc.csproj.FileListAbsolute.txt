@@ -18,3 +18,4 @@ C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSis
 C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Release\prjSistemaMensal_UniaoEnc.Properties.Resources.resources
 C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Release\prjSistemaMensal_UniaoEnc.wfaFechamento.resources
 C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Release\prjSistemaMensal-UniaoEnc.csproj.GenerateResource.Cache
+C:\Users\Bruno\Documents\GitHub\prjCalvipMensal\prjSistemaMensal-UniaoEnc\prjSistemaMensal-UniaoEnc\obj\Release\prjSistemaMensal-UniaoEnc.csprojResolveAssemblyReference.cache

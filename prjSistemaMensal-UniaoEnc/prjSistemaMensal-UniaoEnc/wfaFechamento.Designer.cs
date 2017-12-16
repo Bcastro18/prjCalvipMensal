@@ -31,6 +31,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.btnGera = new System.Windows.Forms.Button();
             this.gpbFechamento = new System.Windows.Forms.GroupBox();
+            this.txtPerid = new System.Windows.Forms.TextBox();
             this.gpbOthers = new System.Windows.Forms.GroupBox();
             this.lblTotOCaix = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
@@ -54,11 +55,10 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.lblPeriod = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.lblCifReg = new System.Windows.Forms.Label();
             this.lblCif = new System.Windows.Forms.Label();
-            this.lblPeriod = new System.Windows.Forms.Label();
-            this.txtPerid = new System.Windows.Forms.TextBox();
             this.gpbFechamento.SuspendLayout();
             this.gpbOthers.SuspendLayout();
             this.gpbNossoCaixa.SuspendLayout();
@@ -118,6 +118,15 @@
             this.gpbFechamento.Size = new System.Drawing.Size(676, 492);
             this.gpbFechamento.TabIndex = 3;
             this.gpbFechamento.TabStop = false;
+            // 
+            // txtPerid
+            // 
+            this.txtPerid.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtPerid.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPerid.Location = new System.Drawing.Point(196, 67);
+            this.txtPerid.Name = "txtPerid";
+            this.txtPerid.Size = new System.Drawing.Size(191, 24);
+            this.txtPerid.TabIndex = 24;
             // 
             // gpbOthers
             // 
@@ -194,7 +203,7 @@
             // 
             this.lblDepResp.AutoSize = true;
             this.lblDepResp.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDepResp.Location = new System.Drawing.Point(623, 337);
+            this.lblDepResp.Location = new System.Drawing.Point(593, 337);
             this.lblDepResp.Name = "lblDepResp";
             this.lblDepResp.Size = new System.Drawing.Size(0, 18);
             this.lblDepResp.TabIndex = 19;
@@ -346,6 +355,17 @@
             this.label3.TabIndex = 4;
             this.label3.Text = "Região";
             // 
+            // lblPeriod
+            // 
+            this.lblPeriod.AutoSize = true;
+            this.lblPeriod.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.lblPeriod.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPeriod.Location = new System.Drawing.Point(95, 69);
+            this.lblPeriod.Name = "lblPeriod";
+            this.lblPeriod.Size = new System.Drawing.Size(67, 18);
+            this.lblPeriod.TabIndex = 3;
+            this.lblPeriod.Text = "Período";
+            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -376,26 +396,6 @@
             this.lblCif.Size = new System.Drawing.Size(229, 18);
             this.lblCif.TabIndex = 12;
             this.lblCif.Text = "Soma fretes CIFs EMITIDOS:";
-            // 
-            // lblPeriod
-            // 
-            this.lblPeriod.AutoSize = true;
-            this.lblPeriod.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.lblPeriod.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPeriod.Location = new System.Drawing.Point(95, 69);
-            this.lblPeriod.Name = "lblPeriod";
-            this.lblPeriod.Size = new System.Drawing.Size(67, 18);
-            this.lblPeriod.TabIndex = 3;
-            this.lblPeriod.Text = "Período";
-            // 
-            // txtPerid
-            // 
-            this.txtPerid.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtPerid.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPerid.Location = new System.Drawing.Point(196, 67);
-            this.txtPerid.Name = "txtPerid";
-            this.txtPerid.Size = new System.Drawing.Size(191, 24);
-            this.txtPerid.TabIndex = 24;
             // 
             // wfaFechamento
             // 

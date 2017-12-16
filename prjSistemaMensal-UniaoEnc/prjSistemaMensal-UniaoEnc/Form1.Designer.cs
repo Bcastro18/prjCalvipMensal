@@ -250,6 +250,7 @@
             "Cerquilho",
             "Conchas",
             "Laranjal Paulista",
+            "Pereiras",
             "Tietê"});
             this.cmbCidades.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.cmbCidades.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.HistoryList;
